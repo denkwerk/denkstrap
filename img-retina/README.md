@@ -1,4 +1,4 @@
-# denkstrap: Retina image
+# Retina image
 
 Cross browser implementation of retina images for high density screens
 
