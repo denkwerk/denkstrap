@@ -45,5 +45,5 @@ Browsers that are not capable of the srcset attribute (e.g. IE, Firefox, Android
 
 ### Example
 
-[Link] (examples/index.html)
+[examples/index.html] (examples/index.html)
 
