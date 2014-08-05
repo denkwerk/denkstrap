@@ -37,7 +37,7 @@ http://caniuse.com/srcset
 
 ## JavaScript polyfill
 
-Browsers that are not capable of the srcset attribute (e.g. IE, Firefox, Android Stock browser) are provided with retina image support via JavaScript.
+Browsers that are not capable of the srcset attribute (e.g. IE, Firefox, Android stock browser) are provided with retina image support via JavaScript.
 
 [jquery-srcset-retina-polyfill] (https://github.com/jcampbell1/jquery-srcset-retina-polyfill)
 
