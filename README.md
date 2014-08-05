@@ -1,6 +1,6 @@
 # denkstrap
 
-Standard implementations for common site components
+Standard implementation of common site components
 
 ## Ready to use
 
