@@ -1,3 +1,12 @@
+/*
+    jquery-srcset-retina-polyfill
+
+    jQuery plugin to provide support for srcset attribute of the img tag to enable alternate images on retina displays.
+    https://github.com/jcampbell1/jquery-srcset-retina-polyfill
+
+    Note: Added document ready initialization to check all images with srcset attribute on page load
+ */
+
 (function($,window) {
 	// returns an array of objects of the form {url: 'image_url', ratio: float }
 	//   array is sorted in asending order by the pixel ratio
@@ -40,4 +49,9 @@
 		});
 	};
 	
-})(jQuery,window)
+})(jQuery,window);
+
+$(document).ready(function() {
+    // Check all images with srcset attribute
+    $('img[srcset]').srcset();
+});
