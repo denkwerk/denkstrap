@@ -1,19 +1,10 @@
 # denkstrap
 
-Standard implementation of common modules
+[denkwerk] (http://denkwerk.com) standard implementation of frontend structure, tools and modules.
 
 ## Ready to use
 
-- [Retina image] (img-retina): Cross browser implementation of retina images for high density screens
+### [.editorconfig] (.editorconfig)
+EditorConfig helps developers maintain consistent coding styles between different IDEs like indents and trailing spaces.
 
-## In progress
-
-- IE CSS split: Compass script to split stylesheets automatically if IE selector limit of 4095 is exceeded
-
-## Planned
-
-- Form fields: Styled input, select, checkbox, radio button, textarea with error handling and touch support
-- Grid: Responsive and nestable grid
-- Carousel: Flexible carousel slider with touch support
-- Video Player: video.js standard implementation
-- SVG Sprite: Scalable icon sprite with PNG fallback for old browsers
+Info: [http://editorconfig.org] (http://editorconfig.org)
